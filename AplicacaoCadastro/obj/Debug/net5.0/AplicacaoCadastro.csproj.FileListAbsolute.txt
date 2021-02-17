@@ -1,0 +1,16 @@
+D:\c##\AplicacaoCadastro\obj\Debug\net5.0\AplicacaoCadastro.csprojAssemblyReference.cache
+D:\c##\AplicacaoCadastro\obj\Debug\net5.0\AplicacaoCadastro.GeneratedMSBuildEditorConfig.editorconfig
+D:\c##\AplicacaoCadastro\obj\Debug\net5.0\AplicacaoCadastro.AssemblyInfoInputs.cache
+D:\c##\AplicacaoCadastro\obj\Debug\net5.0\AplicacaoCadastro.AssemblyInfo.cs
+D:\c##\AplicacaoCadastro\obj\Debug\net5.0\AplicacaoCadastro.csproj.CoreCompileInputs.cache
+D:\c##\AplicacaoCadastro\bin\Debug\net5.0\AplicacaoCadastro.exe
+D:\c##\AplicacaoCadastro\bin\Debug\net5.0\AplicacaoCadastro.deps.json
+D:\c##\AplicacaoCadastro\bin\Debug\net5.0\AplicacaoCadastro.runtimeconfig.json
+D:\c##\AplicacaoCadastro\bin\Debug\net5.0\AplicacaoCadastro.runtimeconfig.dev.json
+D:\c##\AplicacaoCadastro\bin\Debug\net5.0\AplicacaoCadastro.dll
+D:\c##\AplicacaoCadastro\bin\Debug\net5.0\ref\AplicacaoCadastro.dll
+D:\c##\AplicacaoCadastro\bin\Debug\net5.0\AplicacaoCadastro.pdb
+D:\c##\AplicacaoCadastro\obj\Debug\net5.0\AplicacaoCadastro.dll
+D:\c##\AplicacaoCadastro\obj\Debug\net5.0\ref\AplicacaoCadastro.dll
+D:\c##\AplicacaoCadastro\obj\Debug\net5.0\AplicacaoCadastro.pdb
+D:\c##\AplicacaoCadastro\obj\Debug\net5.0\AplicacaoCadastro.genruntimeconfig.cache
